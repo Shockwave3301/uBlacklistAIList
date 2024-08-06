@@ -65,3 +65,12 @@
 *://imageai.app/*
 *://nftartwithlauren.com/*
 *://*.ai/*
+*://www.pixlr.com/*
+*://www.kittl.com/*
+*://www.vidnoz.com/*
+*://www.stablediffusionweb.com/*
+*://www.pixabay.com/*
+*://www.aiartshop.com/*
+*://www.peakpx.com/*
+*://www.publish0x.com/*
+*://www.lori.ru/*
