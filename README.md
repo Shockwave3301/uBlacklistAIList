@@ -6,3 +6,5 @@ This list is made for [uBlacklist extension](https://github.com/iorate/ublacklis
 The list will be updated as I find more AI slop.
 
 Cheers!
+
+![](./ihateai.webp);
