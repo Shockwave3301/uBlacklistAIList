@@ -1,4 +1,5 @@
 *://*.2moons.ai/*
+*://2-denise-fulmer.pixels.com/*
 *://*.3d.ai/*
 *://*.6open.art/*
 *://*.6pen.art/*
@@ -951,3 +952,7 @@
 *://*.zmo.ai/*
 *://*.zust.ai/*
 *://*.z.ai/*
+*://journeyaiart.com/*
+*://komiko.app/*
+*://forum.yesai.su/*
+*://stablediffusion3.net/*
